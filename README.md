@@ -13,3 +13,8 @@ You can find the most significative predicted target genes for each miRNA and su
 
 In the script is present an option to export the most significative predicted Target genes, and the most significative GO-BP terms for each miRNA in .cvs files. Be sure to run the script in the same directory where the .cvs files will be saved to avoid error messages.
 
+You can use the results of the GO-BP analysis to summarise in a scatter plot and a tree map the Biological Processes involved in Top-10 miRNA differential regulation using REVIGO (http://revigo.irb.hr/). Treemap can also be build using the file REVIGO_treemap.r.
+
+5) Exttact GO terms from .cvs files created after step 4
+6) insert the list of GO terms in REVIGO tool to see the treemap of the most significative BPs
+
