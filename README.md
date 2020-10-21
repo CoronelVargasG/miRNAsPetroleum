@@ -18,3 +18,5 @@ You can use the results of the GO-BP analysis to summarise in a scatter plot and
 5) Exttact GO terms from .cvs files created after step 4
 6) insert the list of GO terms in REVIGO tool to see the treemap of the most significative BPs
 
+
+For a better understanding consult ____________ paper. A flowchart of the scructure of the paper can be found in FLOWCHART.jpg 
