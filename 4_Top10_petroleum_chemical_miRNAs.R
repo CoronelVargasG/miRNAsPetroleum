@@ -1,4 +1,5 @@
 #Top10 most frequent miRNA in citations. GO-BPs analysis.
+#IMPORTANT: predicted GENES ID for each miRNA are the first column of "predictions_miR_X" files.
 
 ##    miR-142-5p
 miR_142_5p = 'miR-142-5p'
