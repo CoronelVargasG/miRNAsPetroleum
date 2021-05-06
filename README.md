@@ -7,7 +7,7 @@ For the bioinformatics, Bioconductor R packages were used. You can use the code 
 2) install RStudio
 3) open Installation_Bioconductor_packages_used.R file and run it.
 
-You can find the most significative predicted target genes for each miRNA and sucevelly the Gene Ontology - Biological Proces (GO-BP) for the most frequent miRNAs in Table 2S file using script in Top10_petroleum_chemical_miRNAs.R . The script was written following the workflow written by Maciej Pajak and Ian Simpson (September 9, 2015) available at https://bioconductor.riken.jp/packages/3.1/bioc/vignettes/miRNAtap/inst/doc/miRNAtap.pdf
+You can find the most significative predicted target genes for each miRNA and subsequently the Gene Ontology - Biological Proces (GO-BP) for the most frequent miRNAs in Table 2S file using script in Top10_petroleum_chemical_miRNAs.R . The script was written following the workflow written by Maciej Pajak and Ian Simpson (September 9, 2015) available at https://bioconductor.riken.jp/packages/3.1/bioc/vignettes/miRNAtap/inst/doc/miRNAtap.pdf
 
 4) Run Top10_petroleum_chemical_miRNAs.R in RStudio
 
