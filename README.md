@@ -19,4 +19,4 @@ You can use the results of the GO-BP analysis to summarise in a scatter plot and
 6) insert the list of GO terms in REVIGO tool to see the treemap of the most significative BPs
 
 
-For a better understanding consult ____________ paper. A flowchart of the scructure of the paper can be found in FLOWCHART.jpg 
+For a better understanding consult Micro RNA (miRNA) Differential Expression and Exposure to Crude-Oil-Related Compounds paper (https://www.eurekaselect.com/193885/article, DOI: 10.2174/2211536610666210604122131). A flowchart of the scructure of the paper can be found in FLOWCHART.jpg 
